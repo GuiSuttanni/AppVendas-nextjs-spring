@@ -27,8 +27,15 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Goals 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Criar e desenvolver uma aplicação Next Js
+- Desenvolver API Rest com Spring Boot
+- Criar bancos de dados SQL e manipular os dados através da aplicação
+- Testar API's com o POSTMAN
+- Criar componentes e páginas utilizando React
+- Bulma CSS e PrimeReact
+- Criar Relatórios JasperReports e chamá-los através da aplicação
+- Criar Página de Dashboard simples com Gráfico de vendas
+- Autenticação com sites de terceiros (Github, Auth0)
+- Fazer Build das aplicações e Deploy na Nuvem
