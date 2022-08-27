@@ -9,6 +9,8 @@ const Home: React.FC = () => {
       </Head>
       
       Bem vindo!
+
+      <button className="button">Button</button>
     </div>
   )
 }
